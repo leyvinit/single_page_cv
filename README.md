@@ -19,3 +19,4 @@ By completing this project, you’ll gain a solid understanding of how to create
 
 https://github.com/leyvinit/single_page_cv
 https://roadmap.sh/projects/single-page-cv
+https://roadmap.sh/projects/single-page-cv/solutions?u=67f7c5cfb717d3d8486c4562
